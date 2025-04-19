@@ -1,6 +1,6 @@
 streamlit
 whisper
-openai-whisper
+torch==2.0.1
 librosa
 scikit-learn
 matplotlib

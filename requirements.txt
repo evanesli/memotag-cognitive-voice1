@@ -1,0 +1,7 @@
+streamlit
+whisper
+openai-whisper
+librosa
+scikit-learn
+matplotlib
+numpy

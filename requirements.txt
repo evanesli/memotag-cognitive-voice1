@@ -1,6 +1,5 @@
 streamlit
-whisper
-torch==2.0.1
+faster-whisper
 librosa
 scikit-learn
 matplotlib
